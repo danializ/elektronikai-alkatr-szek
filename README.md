@@ -1,0 +1,2 @@
+# elektronikai-alkatr-szek
+alkatrészek
