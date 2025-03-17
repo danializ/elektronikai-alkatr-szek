@@ -1,5 +1,4 @@
- Miről szól a tananyag? 
-A tananyag célja, hogy megismertesse a diákokat az alapvető elektronikai eszközökkel, alkatrészekkel, azok működésével, és az elektronikai áramkörök tervezésével. A tanulók megismerkednek az elektronikai alapfogalmakkal, a legfontosabb alkatrészekkel, és azok felhasználásával különböző áramkörökben.
+
 Milyen alkatrészeket tanultunk, ezek mire valók? 
 á Resisztorok (ellenállások): Az áramkörökben az áram erősségét szabályozzák, és védelmet nyújtanak a túl nagy áramok ellen.
 Kondenzátorok: Energiát tárolnak és kisülnek, ezzel szabályozva a feszültséget. Az áramkörökben a zajcsökkentésre és feszültségszűrésre is használják.
@@ -19,7 +18,8 @@ Szimulációk: A tananyag részeként sokszor szimulációkat is végezhetünk (
 1. Feszültség, áramerősség, ellenállás és teljesítmény
 Feszültség (U): A feszültség az elektromos potenciálkülönbséget jelenti két pont között. Egyszerűbben fogalmazva, a feszültség az, ami "mozgásra kényszeríti" az elektronokat egy vezetőben, tehát a feszültség az áram áramlását előidéző erő. A feszültséget voltokban (V) mérjük.
 Áramerősség (I): Az áramerősség a vezetőn áramló töltések (elektronok) számát jelenti egy adott idő alatt. Az áram mértéke azt mutatja meg, hogy milyen erővel áramlik az elektromos töltés az áramkörben. Az áramot amperben (A) mérjük.
-Ellenállás (R): Az ellenállás az áramkör azon tulajdonsága, amely akadályozza az áram áramlását. Mértékegysége az ohm (Ω). Az Ohm törvénye szerint az ellenállás egyenesen arányos a feszültséggel, és fordítottan arányos az áramerősséggel:
+Ellenállás (R): Az ellenállás az áramkör azon tulajdonsága, amely akadályozza az áram áramlását. Mértékegysége az ohm (Ω). Az Ohm törvénye szerint az ellenállás egyenesen arányos a feszültséggel, és fordítottan arányos az áramerősséggel:![download](https://github.com/user-attachments/assets/50191b42-25b9-42bf-9088-9d35cd559d15)
+
 𝑅
 =
 𝑈
