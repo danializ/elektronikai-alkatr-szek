@@ -18,15 +18,14 @@ Szimulációk: A tananyag részeként sokszor szimulációkat is végezhetünk (
 1. Feszültség, áramerősség, ellenállás és teljesítmény
 Feszültség (U): A feszültség az elektromos potenciálkülönbséget jelenti két pont között. Egyszerűbben fogalmazva, a feszültség az, ami "mozgásra kényszeríti" az elektronokat egy vezetőben, tehát a feszültség az áram áramlását előidéző erő. A feszültséget voltokban (V) mérjük.
 Áramerősség (I): Az áramerősség a vezetőn áramló töltések (elektronok) számát jelenti egy adott idő alatt. Az áram mértéke azt mutatja meg, hogy milyen erővel áramlik az elektromos töltés az áramkörben. Az áramot amperben (A) mérjük.
-Ellenállás (R): Az ellenállás az áramkör azon tulajdonsága, amely akadályozza az áram áramlását. Mértékegysége az ohm (Ω). Az Ohm törvénye szerint az ellenállás egyenesen arányos a feszültséggel, és fordítottan arányos az áramerősséggel:![download](https://github.com/user-attachments/assets/50191b42-25b9-42bf-9088-9d35cd559d15)
-
-𝑅
+Ellenállás (R): Az ellenállás az áramkör azon tulajdonsága, amely akadályozza az áram áramlását. Mértékegysége az ohm (Ω). Az Ohm törvénye szerint az ellenállás egyenesen arányos a feszültséggel, és fordítottan arányos az áramerősséggel: 𝑅
 =
 𝑈
 𝐼
 R= 
 I
-U
+U![download](https://github.com/user-attachments/assets/50191b42-25b9-42bf-9088-9d35cd559d15)
+
 Teljesítmény (P): A teljesítmény azt mutatja meg, hogy egy áramkörben mennyi energiát fogyaszt az áram. A teljesítmény az áram és a feszültség szorzataként számítható: 
 𝑃
 =
@@ -47,6 +46,7 @@ Párhuzamos kapcsolás: Párhuzamos kapcsoláskor az ellenállások párhuzamosa
 Ellenállás: Az ellenállás az egyik alapvető elektronikai alkatrész, amely korlátozza az áram áramlását az áramkörben. A színkód segítségével jelezhetjük az ellenállás értékét és tűrését. Az ellenállások különböző alkalmazásokat szolgálnak, például feszültségosztók, áramkorlátozók és jelátalakítók formájában.
 
 Kondenzátor: A kondenzátor egy olyan alkatrész, amely elektromos töltést képes tárolni. Két vezető lemez között szigetelő anyag található, és a kondenzátor kapacitása (mértékegysége: Farad) adja meg, hogy mennyi töltést képes tárolni. A kondenzátorokat többek között szűrésre, időzítésre, csatolásra és zajszűrésre használják. Fontos, hogy az elektrolit kondenzátorok polarizáltak, tehát figyelni kell a + és – bekötésre.
+![download](https://github.com/user-attachments/assets/7c18409e-b495-4393-ab7d-2968ca05a80e)
 
 5. NE555 IC jellemzői
 Az NE555 egy igen népszerű időzítő IC, amelyet széleskörű elektronikai alkalmazásokban használnak. Három fő működési módja létezik:
